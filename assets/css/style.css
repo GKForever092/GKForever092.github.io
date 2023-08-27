@@ -68,6 +68,17 @@ main img{
     text-align: center;
 }
 
+/* section experiencia */
+
+.section2 {
+    text-align: center;
+    padding: 75px;
+}
+
+.section2 h2{
+    padding-bottom: 20px;
+}
+
 /* Portafolio */
 
 .portafolio h2{
